@@ -1,1 +1,1 @@
-### Hi, I'm Boytemir Hayitmurodov   <img src="https://giphy.com/embed/gM5qFksULw54NMWyry" width="40" height="40" >
+### Hi, I'm Boytemir Hayitmurodov   <img src="[https://giphy.com/embed/gM5qFksULw54NMWyry](https://media4.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=ecf05e47oxk5opaphca5rwlcmdkpi2loe4uy5awmnatw2cij&rid=giphy.gif&ct=s)" width="40" height="40" >
