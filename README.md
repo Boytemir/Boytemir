@@ -1,1 +1,2 @@
 ### Hi, I'm Boytemir Hayitmurodov   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+<video src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" autoplay muted > </video>
